@@ -165,7 +165,7 @@
             label2.TabIndex = 7;
             label2.Text = "Tên sách";
             label2.TextAlign = ContentAlignment.BottomCenter;
-            label2.Click += label2_Click;
+
             // 
             // btnThem
             // 
