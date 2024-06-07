@@ -1,0 +1,17 @@
+D:\Workspace\Project\manga\manga\bin\Release\net8.0-windows\manga.exe
+D:\Workspace\Project\manga\manga\bin\Release\net8.0-windows\manga.deps.json
+D:\Workspace\Project\manga\manga\bin\Release\net8.0-windows\manga.runtimeconfig.json
+D:\Workspace\Project\manga\manga\bin\Release\net8.0-windows\manga.dll
+D:\Workspace\Project\manga\manga\bin\Release\net8.0-windows\manga.pdb
+D:\Workspace\Project\manga\manga\obj\Release\net8.0-windows\manga.Form1.resources
+D:\Workspace\Project\manga\manga\obj\Release\net8.0-windows\manga.csproj.GenerateResource.cache
+D:\Workspace\Project\manga\manga\obj\Release\net8.0-windows\manga.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Project\manga\manga\obj\Release\net8.0-windows\manga.AssemblyInfoInputs.cache
+D:\Workspace\Project\manga\manga\obj\Release\net8.0-windows\manga.AssemblyInfo.cs
+D:\Workspace\Project\manga\manga\obj\Release\net8.0-windows\manga.csproj.CoreCompileInputs.cache
+D:\Workspace\Project\manga\manga\obj\Release\net8.0-windows\manga.sourcelink.json
+D:\Workspace\Project\manga\manga\obj\Release\net8.0-windows\manga.dll
+D:\Workspace\Project\manga\manga\obj\Release\net8.0-windows\refint\manga.dll
+D:\Workspace\Project\manga\manga\obj\Release\net8.0-windows\manga.pdb
+D:\Workspace\Project\manga\manga\obj\Release\net8.0-windows\manga.genruntimeconfig.cache
+D:\Workspace\Project\manga\manga\obj\Release\net8.0-windows\ref\manga.dll
